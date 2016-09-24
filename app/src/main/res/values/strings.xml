@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IceScraper</string>
+    <string name="about_icescraper">About IceScraper</string>
+    <string name="temperature_text">Temperature: </string>
+    <string name="humidity_text">Humidity: </string>
+    <string name="GPS_text">GPS</string>
+    <string name="main_text">Need an IceScraper?</string>
+    <string name="city_hint">Enter City</string>
+    <string name="IceScraper_false">You don\'t \nneed an \nIce Scraper</string>
+    <string name="IceScraper_true">You might \nneed an \nIce Scraper</string>
+    <string name="Enter_City">Please enter a City</string>
+    <string name="City_not_found">City not found</string>
+    <string name="title_activity_about_me">About IceScraper</string>
+    <string name="aboutme_text">This App IceScraper is written by Christopher Schatz. \nPlease note that there is no warranty
+    that you really need an Ice Scraper. \nDepending on local conditions the result may vary.
+        \n\nPlease visit my Blog: \nhttp://www.kralltech.blogspot.de/\n\n\nThe weatherdata is provided by http://www.openweathermap.org</string>
+</resources>

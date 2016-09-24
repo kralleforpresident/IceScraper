@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IceScraper</string>
+    <string name="IceScraper_false">Du brauchst keinen Eiskratzer</string>
+    <string name="IceScraper_true">Du brauchst eventuell \neinen Eiskratzer</string>
+    <string name="city_hint">Stadt eingeben</string>
+    <string name="humidity_text">Luftfeuchtigkeit:</string>
+    <string name="main_text">Brauchst du \neinen \nEiskratzer?</string>
+    <string name="temperature_text">Temperatur:</string>
+    <string name="City_not_found">Stadt nicht \ngefunden</string>
+    <string name="Enter_City">Bitte eine \nStadt \neingeben</string>
+    <string name="GPS_text">GPS</string>
+    <string name="about_icescraper">Über IceScraper</string>
+    <string name="aboutme_text">Die App IceScraper wurde von Christopher Schatz geschrieben. \nBitte beachte, dass nicht garantiert wird, dass ein Eiskratzer verwendet werden muss. \nDie Ergebnisse können, je nach lokalen Begebenheiten, abweichen. \n\nBesuch meinen Blog: \nhttp://kralltech.blogspot.de\n\n\nDie Wetterdaten werden von http://www.openweathermap.org zur verfügung gestellt.</string>
+    <string name="title_activity_about_me">Über IceScraper</string>
+</resources>

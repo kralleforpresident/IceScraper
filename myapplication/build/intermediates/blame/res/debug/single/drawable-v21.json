@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/kralle/Android dateien/AndroidStudioProjects/IceScraper/myapplication/build/intermediates/res/merged/debug/drawable-v21/generic_confirmation.xml",
+        "source": "/home/kralle/Android dateien/AndroidStudioProjects/IceScraper/myapplication/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/drawable-v21/generic_confirmation.xml"
+    },
+    {
+        "merged": "/home/kralle/Android dateien/AndroidStudioProjects/IceScraper/myapplication/build/intermediates/res/merged/debug/drawable-v21/generic_confirmation_animation.xml",
+        "source": "/home/kralle/Android dateien/AndroidStudioProjects/IceScraper/myapplication/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/drawable-v21/generic_confirmation_animation.xml"
+    },
+    {
+        "merged": "/home/kralle/Android dateien/AndroidStudioProjects/IceScraper/myapplication/build/intermediates/res/merged/debug/drawable-v21/open_on_phone.xml",
+        "source": "/home/kralle/Android dateien/AndroidStudioProjects/IceScraper/myapplication/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/drawable-v21/open_on_phone.xml"
+    },
+    {
+        "merged": "/home/kralle/Android dateien/AndroidStudioProjects/IceScraper/myapplication/build/intermediates/res/merged/debug/drawable-v21/open_on_phone_animation.xml",
+        "source": "/home/kralle/Android dateien/AndroidStudioProjects/IceScraper/myapplication/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/res/drawable-v21/open_on_phone_animation.xml"
+    }
+]
